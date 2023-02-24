@@ -51,3 +51,11 @@ body {
     background-position: center;
     background-size: cover;
   }
+
+  .template_img {
+    height: 500px;
+    overflow: scroll;
+    overflow-x: hidden;
+    width: fit-content;
+    margin-bottom: 50px;
+  }
