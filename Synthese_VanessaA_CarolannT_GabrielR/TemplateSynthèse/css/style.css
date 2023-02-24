@@ -52,6 +52,12 @@ body {
     background-size: cover;
   }
 
+  .template_img {
+    height: 500px;
+    overflow: scroll;
+    overflow-x: hidden;
+    width: fit-content;
+  }
   .h1-echeancier
   {
     margin-top: 50px;
