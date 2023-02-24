@@ -57,5 +57,15 @@ body {
     overflow: scroll;
     overflow-x: hidden;
     width: fit-content;
+  }
+  .h1-echeancier
+  {
+    margin-top: 50px;
+    text-align: center;
+  }
+
+  .echeancier-commentaire
+  {
+    text-align: center;
     margin-bottom: 50px;
   }
